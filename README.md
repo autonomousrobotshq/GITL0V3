@@ -3,15 +3,19 @@
 ## Git basics
 
 ### basic commands
+    git status
+
     git clone [REPO] [LOCAL FOLDER]
-    
-    git fetch
     
     git pull
 
     git push
+
+    git push -f
     
-    git push -f 
+    git commit -m [COMMIT MSG]
+    
+    git fetch
 
     git diff [OTHER BRANCH]
     
